@@ -1,0 +1,7 @@
+build/
+dist/
+Rufus/
+rufus-4.2p.exe
+rufus.ini
+run_usb.bat
+targets/x86_64/iso/boot/kernel.bin
